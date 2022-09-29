@@ -93,6 +93,7 @@ pyrsistent==0.18.1
 python-dateutil==2.8.2
 python-slugify==6.1.2
 pytorch-ignite==0.4.10
+pytorch-pfn-extras==0.6.1
 pytz==2022.2.1
 PyYAML==6.0
 pyzmq==23.2.1
