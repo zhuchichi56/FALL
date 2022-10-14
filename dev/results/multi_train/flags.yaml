@@ -1,7 +1,7 @@
 debug: true
 device: cuda:0
 epoch: 2
-l5kit_data_folder: /kaggle/input/lyft-motion-prediction-autonomous-vehicles
+l5kit_data_folder: /home/zhuhe/kaggle/input/lyft-motion-prediction-autonomous-vehicles
 out_dir: results/multi_train
 pred_mode: multi
 snapshot_freq: 50
