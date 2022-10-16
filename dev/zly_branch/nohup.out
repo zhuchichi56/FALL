@@ -1,9 +1,0 @@
-[NbConvertApp] Converting notebook train_gcn_real.ipynb to notebook
-[I 14:28:45.767 NotebookApp] notebooks 运行所在的本地路径: /home/zhuhe/FALL/dev/zly_branch
-[I 14:28:45.767 NotebookApp] Jupyter Notebook 6.4.12 is running at:
-[I 14:28:45.767 NotebookApp] http://zhuhe:8080/
-[I 14:28:45.767 NotebookApp] 使用 Control-C 停止此服务器并关闭所有内核（连续操作两次便可跳过确认界面）。
-[I 14:28:51.183 NotebookApp] 已经中断...
-[I 14:28:51.184 NotebookApp] 关闭 0 内核
-[I 14:28:51.184 NotebookApp] Shutting down 0 terminals
-[NbConvertApp] Writing 547497 bytes to train_gcn_real.ipynb

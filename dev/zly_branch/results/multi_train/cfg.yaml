@@ -4,7 +4,7 @@ model_params:
   future_num_frames: 50
   future_step_size: 1
   history_delta_time: 0.1
-  history_num_frames: 10
+  history_num_frames: 50
   history_step_size: 1
   model_architecture: resnet50
   render_ego_history: true
@@ -30,7 +30,7 @@ train_data_loader:
   batch_size: 12
   key: scenes/train.zarr
   num_workers: 4
-  shuffle: true
+  shuffle: false
 train_params:
   checkpoint_every_n_steps: 5000
   max_num_steps: 10000
