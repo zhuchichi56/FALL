@@ -26,6 +26,11 @@ raster_params:
   satellite_map_key: aerial_map/aerial_map.png
   semantic_map_key: semantic_map/semantic_map.pb
   set_origin_to_bottom: true
+test_data_loader:
+  batch_size: 8
+  key: scenes/test.zarr
+  num_workers: 4
+  shuffle: false
 train_data_loader:
   batch_size: 12
   key: scenes/train.zarr

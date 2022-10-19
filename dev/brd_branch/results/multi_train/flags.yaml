@@ -1,4 +1,4 @@
-debug: true
+debug: false
 device: cuda:0
 epoch: 2
 l5kit_data_folder: /home/zhuhe/kaggle/input/lyft-motion-prediction-autonomous-vehicles
