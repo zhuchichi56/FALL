@@ -1,0 +1,1450 @@
+[I 17:57:47.128 NotebookApp] notebooks 运行所在的本地路径: /home/zhuhe/FALL/dev
+[I 17:57:47.128 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 17:57:47.128 NotebookApp] http://zhuhe:8080/
+[I 17:57:47.128 NotebookApp] 使用 Control-C 停止此服务器并关闭所有内核（连续操作两次便可跳过确认界面）。
+[W 17:58:04.762 NotebookApp] 404 GET /api/contents/anaconda3?content=1 (10.26.139.187): file or directory does not exist: 'anaconda3'
+[W 17:58:04.762 NotebookApp] file or directory does not exist: 'anaconda3'
+[W 17:58:04.762 NotebookApp] 404 GET /api/contents/anaconda3?content=1 (10.26.139.187) 1.620000ms referer=None
+[W 17:58:04.811 NotebookApp] 404 GET /api/contents/CPP?content=1 (10.26.139.187): file or directory does not exist: 'CPP'
+[W 17:58:04.811 NotebookApp] file or directory does not exist: 'CPP'
+[W 17:58:04.812 NotebookApp] 404 GET /api/contents/CPP?content=1 (10.26.139.187) 1.410000ms referer=None
+[W 17:58:04.835 NotebookApp] 404 GET /api/contents/CUDA_Freshman?content=1 (10.26.139.187): file or directory does not exist: 'CUDA_Freshman'
+[W 17:58:04.835 NotebookApp] file or directory does not exist: 'CUDA_Freshman'
+[W 17:58:04.836 NotebookApp] 404 GET /api/contents/CUDA_Freshman?content=1 (10.26.139.187) 1.990000ms referer=None
+[W 17:58:04.860 NotebookApp] 404 GET /api/contents/Dataset?content=1 (10.26.139.187): file or directory does not exist: 'Dataset'
+[W 17:58:04.860 NotebookApp] file or directory does not exist: 'Dataset'
+[W 17:58:04.860 NotebookApp] 404 GET /api/contents/Dataset?content=1 (10.26.139.187) 1.480000ms referer=None
+[W 17:58:04.888 NotebookApp] 404 GET /api/contents/FALL?content=1 (10.26.139.187): file or directory does not exist: 'FALL'
+[W 17:58:04.889 NotebookApp] file or directory does not exist: 'FALL'
+[W 17:58:04.889 NotebookApp] 404 GET /api/contents/FALL?content=1 (10.26.139.187) 2.070000ms referer=None
+[W 17:58:04.912 NotebookApp] 404 GET /api/contents/github?content=1 (10.26.139.187): file or directory does not exist: 'github'
+[W 17:58:04.912 NotebookApp] file or directory does not exist: 'github'
+[W 17:58:04.913 NotebookApp] 404 GET /api/contents/github?content=1 (10.26.139.187) 1.320000ms referer=None
+[W 17:58:04.933 NotebookApp] 404 GET /api/contents/kaggle?content=1 (10.26.139.187): file or directory does not exist: 'kaggle'
+[W 17:58:04.933 NotebookApp] file or directory does not exist: 'kaggle'
+[W 17:58:04.933 NotebookApp] 404 GET /api/contents/kaggle?content=1 (10.26.139.187) 1.220000ms referer=None
+[W 17:58:04.954 NotebookApp] 404 GET /api/contents/logs?content=1 (10.26.139.187): file or directory does not exist: 'logs'
+[W 17:58:04.954 NotebookApp] file or directory does not exist: 'logs'
+[W 17:58:04.955 NotebookApp] 404 GET /api/contents/logs?content=1 (10.26.139.187) 1.130000ms referer=None
+[W 17:58:05.006 NotebookApp] 404 GET /api/contents/minio?content=1 (10.26.139.187): file or directory does not exist: 'minio'
+[W 17:58:05.006 NotebookApp] file or directory does not exist: 'minio'
+[W 17:58:05.006 NotebookApp] 404 GET /api/contents/minio?content=1 (10.26.139.187) 1.280000ms referer=None
+[W 17:58:05.047 NotebookApp] 404 GET /api/contents/snap?content=1 (10.26.139.187): file or directory does not exist: 'snap'
+[W 17:58:05.047 NotebookApp] file or directory does not exist: 'snap'
+[W 17:58:05.047 NotebookApp] 404 GET /api/contents/snap?content=1 (10.26.139.187) 1.490000ms referer=None
+[W 17:58:05.093 NotebookApp] 404 GET /api/contents/yet-another-vectornet?content=1 (10.26.139.187): file or directory does not exist: 'yet-another-vectornet'
+[W 17:58:05.093 NotebookApp] file or directory does not exist: 'yet-another-vectornet'
+[W 17:58:05.093 NotebookApp] 404 GET /api/contents/yet-another-vectornet?content=1 (10.26.139.187) 1.380000ms referer=None
+[W 17:58:05.168 NotebookApp] 404 GET /api/contents/%E4%B8%8B%E8%BD%BD?content=1 (10.26.139.187): file or directory does not exist: '下载'
+[W 17:58:05.168 NotebookApp] file or directory does not exist: '下载'
+[W 17:58:05.168 NotebookApp] 404 GET /api/contents/%E4%B8%8B%E8%BD%BD?content=1 (10.26.139.187) 1.120000ms referer=None
+[W 17:58:05.193 NotebookApp] 404 GET /api/contents/%E5%85%AC%E5%85%B1%E7%9A%84?content=1 (10.26.139.187): file or directory does not exist: '公共的'
+[W 17:58:05.193 NotebookApp] file or directory does not exist: '公共的'
+[W 17:58:05.194 NotebookApp] 404 GET /api/contents/%E5%85%AC%E5%85%B1%E7%9A%84?content=1 (10.26.139.187) 1.090000ms referer=None
+[W 17:58:05.217 NotebookApp] 404 GET /api/contents/%E5%9B%BE%E7%89%87?content=1 (10.26.139.187): file or directory does not exist: '图片'
+[W 17:58:05.218 NotebookApp] file or directory does not exist: '图片'
+[W 17:58:05.218 NotebookApp] 404 GET /api/contents/%E5%9B%BE%E7%89%87?content=1 (10.26.139.187) 1.600000ms referer=None
+[W 17:58:05.242 NotebookApp] 404 GET /api/contents/%E6%96%87%E6%A1%A3?content=1 (10.26.139.187): file or directory does not exist: '文档'
+[W 17:58:05.242 NotebookApp] file or directory does not exist: '文档'
+[W 17:58:05.242 NotebookApp] 404 GET /api/contents/%E6%96%87%E6%A1%A3?content=1 (10.26.139.187) 1.300000ms referer=None
+[W 17:58:05.266 NotebookApp] 404 GET /api/contents/%E6%A1%8C%E9%9D%A2?content=1 (10.26.139.187): file or directory does not exist: '桌面'
+[W 17:58:05.267 NotebookApp] file or directory does not exist: '桌面'
+[W 17:58:05.267 NotebookApp] 404 GET /api/contents/%E6%A1%8C%E9%9D%A2?content=1 (10.26.139.187) 1.550000ms referer=None
+[W 17:58:05.295 NotebookApp] 404 GET /api/contents/%E6%A8%A1%E6%9D%BF?content=1 (10.26.139.187): file or directory does not exist: '模板'
+[W 17:58:05.295 NotebookApp] file or directory does not exist: '模板'
+[W 17:58:05.296 NotebookApp] 404 GET /api/contents/%E6%A8%A1%E6%9D%BF?content=1 (10.26.139.187) 2.350000ms referer=None
+[W 17:58:05.322 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187): file or directory does not exist: '视频'
+[W 17:58:05.323 NotebookApp] file or directory does not exist: '视频'
+[W 17:58:05.323 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187) 2.030000ms referer=None
+[W 17:58:05.363 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187): file or directory does not exist: '音乐'
+[W 17:58:05.364 NotebookApp] file or directory does not exist: '音乐'
+[W 17:58:05.364 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187) 1.300000ms referer=None
+[W 17:58:05.396 NotebookApp] 404 GET /api/contents/anaconda3?content=1 (10.26.139.187): file or directory does not exist: 'anaconda3'
+[W 17:58:05.396 NotebookApp] file or directory does not exist: 'anaconda3'
+[W 17:58:05.397 NotebookApp] 404 GET /api/contents/anaconda3?content=1 (10.26.139.187) 1.000000ms referer=None
+[W 17:58:05.446 NotebookApp] 404 GET /api/contents/CPP?content=1 (10.26.139.187): file or directory does not exist: 'CPP'
+[W 17:58:05.446 NotebookApp] file or directory does not exist: 'CPP'
+[W 17:58:05.447 NotebookApp] 404 GET /api/contents/CPP?content=1 (10.26.139.187) 1.280000ms referer=None
+[W 17:58:05.485 NotebookApp] 404 GET /api/contents/CUDA_Freshman?content=1 (10.26.139.187): file or directory does not exist: 'CUDA_Freshman'
+[W 17:58:05.485 NotebookApp] file or directory does not exist: 'CUDA_Freshman'
+[W 17:58:05.485 NotebookApp] 404 GET /api/contents/CUDA_Freshman?content=1 (10.26.139.187) 0.830000ms referer=None
+[W 17:58:05.519 NotebookApp] 404 GET /api/contents/Dataset?content=1 (10.26.139.187): file or directory does not exist: 'Dataset'
+[W 17:58:05.519 NotebookApp] file or directory does not exist: 'Dataset'
+[W 17:58:05.520 NotebookApp] 404 GET /api/contents/Dataset?content=1 (10.26.139.187) 1.070000ms referer=None
+[W 17:58:05.556 NotebookApp] 404 GET /api/contents/FALL?content=1 (10.26.139.187): file or directory does not exist: 'FALL'
+[W 17:58:05.557 NotebookApp] file or directory does not exist: 'FALL'
+[W 17:58:05.557 NotebookApp] 404 GET /api/contents/FALL?content=1 (10.26.139.187) 2.380000ms referer=None
+[W 17:58:05.585 NotebookApp] 404 GET /api/contents/github?content=1 (10.26.139.187): file or directory does not exist: 'github'
+[W 17:58:05.585 NotebookApp] file or directory does not exist: 'github'
+[W 17:58:05.586 NotebookApp] 404 GET /api/contents/github?content=1 (10.26.139.187) 2.210000ms referer=None
+[W 17:58:05.606 NotebookApp] 404 GET /api/contents/kaggle?content=1 (10.26.139.187): file or directory does not exist: 'kaggle'
+[W 17:58:05.606 NotebookApp] file or directory does not exist: 'kaggle'
+[W 17:58:05.607 NotebookApp] 404 GET /api/contents/kaggle?content=1 (10.26.139.187) 0.910000ms referer=None
+[W 17:58:05.633 NotebookApp] 404 GET /api/contents/logs?content=1 (10.26.139.187): file or directory does not exist: 'logs'
+[W 17:58:05.633 NotebookApp] file or directory does not exist: 'logs'
+[W 17:58:05.634 NotebookApp] 404 GET /api/contents/logs?content=1 (10.26.139.187) 1.180000ms referer=None
+[W 17:58:05.669 NotebookApp] 404 GET /api/contents/minio?content=1 (10.26.139.187): file or directory does not exist: 'minio'
+[W 17:58:05.669 NotebookApp] file or directory does not exist: 'minio'
+[W 17:58:05.670 NotebookApp] 404 GET /api/contents/minio?content=1 (10.26.139.187) 2.320000ms referer=None
+[W 17:58:05.719 NotebookApp] 404 GET /api/contents/snap?content=1 (10.26.139.187): file or directory does not exist: 'snap'
+[W 17:58:05.720 NotebookApp] file or directory does not exist: 'snap'
+[W 17:58:05.720 NotebookApp] 404 GET /api/contents/snap?content=1 (10.26.139.187) 2.320000ms referer=None
+[W 17:58:05.788 NotebookApp] 404 GET /api/contents/yet-another-vectornet?content=1 (10.26.139.187): file or directory does not exist: 'yet-another-vectornet'
+[W 17:58:05.789 NotebookApp] file or directory does not exist: 'yet-another-vectornet'
+[W 17:58:05.789 NotebookApp] 404 GET /api/contents/yet-another-vectornet?content=1 (10.26.139.187) 1.220000ms referer=None
+[W 17:58:05.885 NotebookApp] 404 GET /api/contents/%E4%B8%8B%E8%BD%BD?content=1 (10.26.139.187): file or directory does not exist: '下载'
+[W 17:58:05.885 NotebookApp] file or directory does not exist: '下载'
+[W 17:58:05.885 NotebookApp] 404 GET /api/contents/%E4%B8%8B%E8%BD%BD?content=1 (10.26.139.187) 1.350000ms referer=None
+[W 17:58:05.933 NotebookApp] 404 GET /api/contents/%E5%85%AC%E5%85%B1%E7%9A%84?content=1 (10.26.139.187): file or directory does not exist: '公共的'
+[W 17:58:05.933 NotebookApp] file or directory does not exist: '公共的'
+[W 17:58:05.933 NotebookApp] 404 GET /api/contents/%E5%85%AC%E5%85%B1%E7%9A%84?content=1 (10.26.139.187) 0.990000ms referer=None
+[W 17:58:05.965 NotebookApp] 404 GET /api/contents/%E5%9B%BE%E7%89%87?content=1 (10.26.139.187): file or directory does not exist: '图片'
+[W 17:58:05.965 NotebookApp] file or directory does not exist: '图片'
+[W 17:58:05.966 NotebookApp] 404 GET /api/contents/%E5%9B%BE%E7%89%87?content=1 (10.26.139.187) 2.360000ms referer=None
+[W 17:58:06.000 NotebookApp] 404 GET /api/contents/%E6%96%87%E6%A1%A3?content=1 (10.26.139.187): file or directory does not exist: '文档'
+[W 17:58:06.001 NotebookApp] file or directory does not exist: '文档'
+[W 17:58:06.001 NotebookApp] 404 GET /api/contents/%E6%96%87%E6%A1%A3?content=1 (10.26.139.187) 1.190000ms referer=None
+[W 17:58:06.047 NotebookApp] 404 GET /api/contents/%E6%A1%8C%E9%9D%A2?content=1 (10.26.139.187): file or directory does not exist: '桌面'
+[W 17:58:06.047 NotebookApp] file or directory does not exist: '桌面'
+[W 17:58:06.048 NotebookApp] 404 GET /api/contents/%E6%A1%8C%E9%9D%A2?content=1 (10.26.139.187) 2.280000ms referer=None
+[W 17:58:06.071 NotebookApp] 404 GET /api/contents/%E6%A8%A1%E6%9D%BF?content=1 (10.26.139.187): file or directory does not exist: '模板'
+[W 17:58:06.071 NotebookApp] file or directory does not exist: '模板'
+[W 17:58:06.071 NotebookApp] 404 GET /api/contents/%E6%A8%A1%E6%9D%BF?content=1 (10.26.139.187) 1.600000ms referer=None
+[W 17:58:06.099 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187): file or directory does not exist: '视频'
+[W 17:58:06.099 NotebookApp] file or directory does not exist: '视频'
+[W 17:58:06.099 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187) 1.570000ms referer=None
+[W 17:58:06.124 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187): file or directory does not exist: '音乐'
+[W 17:58:06.124 NotebookApp] file or directory does not exist: '音乐'
+[W 17:58:06.125 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187) 2.490000ms referer=None
+[W 17:58:06.163 NotebookApp] 404 GET /api/contents/anaconda3?content=1 (10.26.139.187): file or directory does not exist: 'anaconda3'
+[W 17:58:06.163 NotebookApp] file or directory does not exist: 'anaconda3'
+[W 17:58:06.164 NotebookApp] 404 GET /api/contents/anaconda3?content=1 (10.26.139.187) 2.680000ms referer=None
+[W 17:58:06.212 NotebookApp] 404 GET /api/contents/CPP?content=1 (10.26.139.187): file or directory does not exist: 'CPP'
+[W 17:58:06.213 NotebookApp] file or directory does not exist: 'CPP'
+[W 17:58:06.213 NotebookApp] 404 GET /api/contents/CPP?content=1 (10.26.139.187) 1.770000ms referer=None
+[W 17:58:06.240 NotebookApp] 404 GET /api/contents/CUDA_Freshman?content=1 (10.26.139.187): file or directory does not exist: 'CUDA_Freshman'
+[W 17:58:06.240 NotebookApp] file or directory does not exist: 'CUDA_Freshman'
+[W 17:58:06.241 NotebookApp] 404 GET /api/contents/CUDA_Freshman?content=1 (10.26.139.187) 2.040000ms referer=None
+[W 17:58:06.280 NotebookApp] 404 GET /api/contents/Dataset?content=1 (10.26.139.187): file or directory does not exist: 'Dataset'
+[W 17:58:06.281 NotebookApp] file or directory does not exist: 'Dataset'
+[W 17:58:06.281 NotebookApp] 404 GET /api/contents/Dataset?content=1 (10.26.139.187) 1.330000ms referer=None
+[W 17:58:06.306 NotebookApp] 404 GET /api/contents/FALL?content=1 (10.26.139.187): file or directory does not exist: 'FALL'
+[W 17:58:06.306 NotebookApp] file or directory does not exist: 'FALL'
+[W 17:58:06.307 NotebookApp] 404 GET /api/contents/FALL?content=1 (10.26.139.187) 2.070000ms referer=None
+[W 17:58:06.335 NotebookApp] 404 GET /api/contents/github?content=1 (10.26.139.187): file or directory does not exist: 'github'
+[W 17:58:06.336 NotebookApp] file or directory does not exist: 'github'
+[W 17:58:06.336 NotebookApp] 404 GET /api/contents/github?content=1 (10.26.139.187) 2.090000ms referer=None
+[W 17:58:06.365 NotebookApp] 404 GET /api/contents/kaggle?content=1 (10.26.139.187): file or directory does not exist: 'kaggle'
+[W 17:58:06.365 NotebookApp] file or directory does not exist: 'kaggle'
+[W 17:58:06.366 NotebookApp] 404 GET /api/contents/kaggle?content=1 (10.26.139.187) 2.200000ms referer=None
+[W 17:58:06.400 NotebookApp] 404 GET /api/contents/logs?content=1 (10.26.139.187): file or directory does not exist: 'logs'
+[W 17:58:06.400 NotebookApp] file or directory does not exist: 'logs'
+[W 17:58:06.401 NotebookApp] 404 GET /api/contents/logs?content=1 (10.26.139.187) 0.980000ms referer=None
+[W 17:58:06.423 NotebookApp] 404 GET /api/contents/minio?content=1 (10.26.139.187): file or directory does not exist: 'minio'
+[W 17:58:06.424 NotebookApp] file or directory does not exist: 'minio'
+[W 17:58:06.424 NotebookApp] 404 GET /api/contents/minio?content=1 (10.26.139.187) 2.370000ms referer=None
+[W 17:58:06.473 NotebookApp] 404 GET /api/contents/snap?content=1 (10.26.139.187): file or directory does not exist: 'snap'
+[W 17:58:06.473 NotebookApp] file or directory does not exist: 'snap'
+[W 17:58:06.474 NotebookApp] 404 GET /api/contents/snap?content=1 (10.26.139.187) 1.190000ms referer=None
+[W 17:58:06.520 NotebookApp] 404 GET /api/contents/yet-another-vectornet?content=1 (10.26.139.187): file or directory does not exist: 'yet-another-vectornet'
+[W 17:58:06.520 NotebookApp] file or directory does not exist: 'yet-another-vectornet'
+[W 17:58:06.520 NotebookApp] 404 GET /api/contents/yet-another-vectornet?content=1 (10.26.139.187) 1.580000ms referer=None
+[W 17:58:06.604 NotebookApp] 404 GET /api/contents/%E4%B8%8B%E8%BD%BD?content=1 (10.26.139.187): file or directory does not exist: '下载'
+[W 17:58:06.604 NotebookApp] file or directory does not exist: '下载'
+[W 17:58:06.605 NotebookApp] 404 GET /api/contents/%E4%B8%8B%E8%BD%BD?content=1 (10.26.139.187) 1.450000ms referer=None
+[W 17:58:06.628 NotebookApp] 404 GET /api/contents/%E5%85%AC%E5%85%B1%E7%9A%84?content=1 (10.26.139.187): file or directory does not exist: '公共的'
+[W 17:58:06.628 NotebookApp] file or directory does not exist: '公共的'
+[W 17:58:06.628 NotebookApp] 404 GET /api/contents/%E5%85%AC%E5%85%B1%E7%9A%84?content=1 (10.26.139.187) 1.200000ms referer=None
+[W 17:58:06.649 NotebookApp] 404 GET /api/contents/%E5%9B%BE%E7%89%87?content=1 (10.26.139.187): file or directory does not exist: '图片'
+[W 17:58:06.649 NotebookApp] file or directory does not exist: '图片'
+[W 17:58:06.649 NotebookApp] 404 GET /api/contents/%E5%9B%BE%E7%89%87?content=1 (10.26.139.187) 1.180000ms referer=None
+[W 17:58:06.680 NotebookApp] 404 GET /api/contents/%E6%96%87%E6%A1%A3?content=1 (10.26.139.187): file or directory does not exist: '文档'
+[W 17:58:06.680 NotebookApp] file or directory does not exist: '文档'
+[W 17:58:06.681 NotebookApp] 404 GET /api/contents/%E6%96%87%E6%A1%A3?content=1 (10.26.139.187) 2.340000ms referer=None
+[W 17:58:06.707 NotebookApp] 404 GET /api/contents/%E6%A1%8C%E9%9D%A2?content=1 (10.26.139.187): file or directory does not exist: '桌面'
+[W 17:58:06.707 NotebookApp] file or directory does not exist: '桌面'
+[W 17:58:06.708 NotebookApp] 404 GET /api/contents/%E6%A1%8C%E9%9D%A2?content=1 (10.26.139.187) 1.550000ms referer=None
+[W 17:58:06.731 NotebookApp] 404 GET /api/contents/%E6%A8%A1%E6%9D%BF?content=1 (10.26.139.187): file or directory does not exist: '模板'
+[W 17:58:06.731 NotebookApp] file or directory does not exist: '模板'
+[W 17:58:06.731 NotebookApp] 404 GET /api/contents/%E6%A8%A1%E6%9D%BF?content=1 (10.26.139.187) 1.360000ms referer=None
+[W 17:58:06.752 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187): file or directory does not exist: '视频'
+[W 17:58:06.752 NotebookApp] file or directory does not exist: '视频'
+[W 17:58:06.753 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187) 1.610000ms referer=None
+[W 17:58:06.775 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187): file or directory does not exist: '音乐'
+[W 17:58:06.775 NotebookApp] file or directory does not exist: '音乐'
+[W 17:58:06.775 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187) 1.480000ms referer=None
+[W 17:58:06.799 NotebookApp] 404 GET /api/contents/FALL?content=1 (10.26.139.187): file or directory does not exist: 'FALL'
+[W 17:58:06.799 NotebookApp] file or directory does not exist: 'FALL'
+[W 17:58:06.799 NotebookApp] 404 GET /api/contents/FALL?content=1 (10.26.139.187) 1.460000ms referer=None
+[W 17:58:06.824 NotebookApp] 404 GET /api/contents/github?content=1 (10.26.139.187): file or directory does not exist: 'github'
+[W 17:58:06.825 NotebookApp] file or directory does not exist: 'github'
+[W 17:58:06.825 NotebookApp] 404 GET /api/contents/github?content=1 (10.26.139.187) 1.240000ms referer=None
+[W 17:58:06.852 NotebookApp] 404 GET /api/contents/kaggle?content=1 (10.26.139.187): file or directory does not exist: 'kaggle'
+[W 17:58:06.853 NotebookApp] file or directory does not exist: 'kaggle'
+[W 17:58:06.853 NotebookApp] 404 GET /api/contents/kaggle?content=1 (10.26.139.187) 1.210000ms referer=None
+[W 17:58:06.878 NotebookApp] 404 GET /api/contents/logs?content=1 (10.26.139.187): file or directory does not exist: 'logs'
+[W 17:58:06.878 NotebookApp] file or directory does not exist: 'logs'
+[W 17:58:06.879 NotebookApp] 404 GET /api/contents/logs?content=1 (10.26.139.187) 2.290000ms referer=None
+[W 17:58:06.904 NotebookApp] 404 GET /api/contents/minio?content=1 (10.26.139.187): file or directory does not exist: 'minio'
+[W 17:58:06.904 NotebookApp] file or directory does not exist: 'minio'
+[W 17:58:06.905 NotebookApp] 404 GET /api/contents/minio?content=1 (10.26.139.187) 1.850000ms referer=None
+[W 17:58:06.949 NotebookApp] 404 GET /api/contents/snap?content=1 (10.26.139.187): file or directory does not exist: 'snap'
+[W 17:58:06.949 NotebookApp] file or directory does not exist: 'snap'
+[W 17:58:06.949 NotebookApp] 404 GET /api/contents/snap?content=1 (10.26.139.187) 1.290000ms referer=None
+[W 17:58:07.000 NotebookApp] 404 GET /api/contents/yet-another-vectornet?content=1 (10.26.139.187): file or directory does not exist: 'yet-another-vectornet'
+[W 17:58:07.000 NotebookApp] file or directory does not exist: 'yet-another-vectornet'
+[W 17:58:07.001 NotebookApp] 404 GET /api/contents/yet-another-vectornet?content=1 (10.26.139.187) 2.020000ms referer=None
+[W 17:58:07.074 NotebookApp] 404 GET /api/contents/%E4%B8%8B%E8%BD%BD?content=1 (10.26.139.187): file or directory does not exist: '下载'
+[W 17:58:07.074 NotebookApp] file or directory does not exist: '下载'
+[W 17:58:07.075 NotebookApp] 404 GET /api/contents/%E4%B8%8B%E8%BD%BD?content=1 (10.26.139.187) 2.290000ms referer=None
+[W 17:58:07.095 NotebookApp] 404 GET /api/contents/%E5%85%AC%E5%85%B1%E7%9A%84?content=1 (10.26.139.187): file or directory does not exist: '公共的'
+[W 17:58:07.095 NotebookApp] file or directory does not exist: '公共的'
+[W 17:58:07.095 NotebookApp] 404 GET /api/contents/%E5%85%AC%E5%85%B1%E7%9A%84?content=1 (10.26.139.187) 1.510000ms referer=None
+[W 17:58:07.117 NotebookApp] 404 GET /api/contents/%E5%9B%BE%E7%89%87?content=1 (10.26.139.187): file or directory does not exist: '图片'
+[W 17:58:07.117 NotebookApp] file or directory does not exist: '图片'
+[W 17:58:07.118 NotebookApp] 404 GET /api/contents/%E5%9B%BE%E7%89%87?content=1 (10.26.139.187) 1.760000ms referer=None
+[W 17:58:07.139 NotebookApp] 404 GET /api/contents/%E6%96%87%E6%A1%A3?content=1 (10.26.139.187): file or directory does not exist: '文档'
+[W 17:58:07.140 NotebookApp] file or directory does not exist: '文档'
+[W 17:58:07.140 NotebookApp] 404 GET /api/contents/%E6%96%87%E6%A1%A3?content=1 (10.26.139.187) 1.850000ms referer=None
+[W 17:58:07.168 NotebookApp] 404 GET /api/contents/%E6%A1%8C%E9%9D%A2?content=1 (10.26.139.187): file or directory does not exist: '桌面'
+[W 17:58:07.168 NotebookApp] file or directory does not exist: '桌面'
+[W 17:58:07.169 NotebookApp] 404 GET /api/contents/%E6%A1%8C%E9%9D%A2?content=1 (10.26.139.187) 2.040000ms referer=None
+[W 17:58:07.189 NotebookApp] 404 GET /api/contents/%E6%A8%A1%E6%9D%BF?content=1 (10.26.139.187): file or directory does not exist: '模板'
+[W 17:58:07.189 NotebookApp] file or directory does not exist: '模板'
+[W 17:58:07.189 NotebookApp] 404 GET /api/contents/%E6%A8%A1%E6%9D%BF?content=1 (10.26.139.187) 1.310000ms referer=None
+[W 17:58:07.209 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187): file or directory does not exist: '视频'
+[W 17:58:07.210 NotebookApp] file or directory does not exist: '视频'
+[W 17:58:07.210 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187) 1.510000ms referer=None
+[W 17:58:07.237 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187): file or directory does not exist: '音乐'
+[W 17:58:07.238 NotebookApp] file or directory does not exist: '音乐'
+[W 17:58:07.238 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187) 1.770000ms referer=None
+[W 17:58:07.261 NotebookApp] 404 GET /api/contents/%E5%9B%BE%E7%89%87?content=1 (10.26.139.187): file or directory does not exist: '图片'
+[W 17:58:07.262 NotebookApp] file or directory does not exist: '图片'
+[W 17:58:07.262 NotebookApp] 404 GET /api/contents/%E5%9B%BE%E7%89%87?content=1 (10.26.139.187) 1.810000ms referer=None
+[W 17:58:07.284 NotebookApp] 404 GET /api/contents/%E6%96%87%E6%A1%A3?content=1 (10.26.139.187): file or directory does not exist: '文档'
+[W 17:58:07.284 NotebookApp] file or directory does not exist: '文档'
+[W 17:58:07.285 NotebookApp] 404 GET /api/contents/%E6%96%87%E6%A1%A3?content=1 (10.26.139.187) 1.580000ms referer=None
+[W 17:58:07.305 NotebookApp] 404 GET /api/contents/%E6%A1%8C%E9%9D%A2?content=1 (10.26.139.187): file or directory does not exist: '桌面'
+[W 17:58:07.305 NotebookApp] file or directory does not exist: '桌面'
+[W 17:58:07.306 NotebookApp] 404 GET /api/contents/%E6%A1%8C%E9%9D%A2?content=1 (10.26.139.187) 1.340000ms referer=None
+[W 17:58:07.331 NotebookApp] 404 GET /api/contents/%E6%A8%A1%E6%9D%BF?content=1 (10.26.139.187): file or directory does not exist: '模板'
+[W 17:58:07.331 NotebookApp] file or directory does not exist: '模板'
+[W 17:58:07.332 NotebookApp] 404 GET /api/contents/%E6%A8%A1%E6%9D%BF?content=1 (10.26.139.187) 1.520000ms referer=None
+[W 17:58:07.356 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187): file or directory does not exist: '视频'
+[W 17:58:07.357 NotebookApp] file or directory does not exist: '视频'
+[W 17:58:07.357 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187) 1.880000ms referer=None
+[W 17:58:07.379 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187): file or directory does not exist: '音乐'
+[W 17:58:07.380 NotebookApp] file or directory does not exist: '音乐'
+[W 17:58:07.380 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187) 1.680000ms referer=None
+[W 17:58:07.404 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187): file or directory does not exist: '视频'
+[W 17:58:07.405 NotebookApp] file or directory does not exist: '视频'
+[W 17:58:07.405 NotebookApp] 404 GET /api/contents/%E8%A7%86%E9%A2%91?content=1 (10.26.139.187) 1.650000ms referer=None
+[W 17:58:07.431 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187): file or directory does not exist: '音乐'
+[W 17:58:07.431 NotebookApp] file or directory does not exist: '音乐'
+[W 17:58:07.431 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187) 1.300000ms referer=None
+[W 17:58:07.450 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187): file or directory does not exist: '音乐'
+[W 17:58:07.450 NotebookApp] file or directory does not exist: '音乐'
+[W 17:58:07.451 NotebookApp] 404 GET /api/contents/%E9%9F%B3%E4%B9%90?content=1 (10.26.139.187) 1.100000ms referer=None
+[W 17:59:41.025 NotebookApp] 404 DELETE /api/sessions/eeed81ba-9e52-49b3-84ab-ed12feeb00ba (10.26.139.187): Session not found: session_id='eeed81ba-9e52-49b3-84ab-ed12feeb00ba'
+[W 17:59:41.025 NotebookApp] Session not found: session_id='eeed81ba-9e52-49b3-84ab-ed12feeb00ba'
+[W 17:59:41.025 NotebookApp] 404 DELETE /api/sessions/eeed81ba-9e52-49b3-84ab-ed12feeb00ba (10.26.139.187) 1.860000ms referer=None
+[W 18:02:40.363 NotebookApp] Forbidden
+[W 18:02:40.363 NotebookApp] 403 GET /api/sessions (10.26.139.187) 0.890000ms referer=None
+[W 18:02:40.364 NotebookApp] Forbidden
+[W 18:02:40.364 NotebookApp] 403 GET /api/contents/?content=1 (10.26.139.187) 0.970000ms referer=None
+[I 18:02:40.832 NotebookApp] 302 POST /login (10.26.139.187) 20.020000ms
+[I 18:02:40.845 NotebookApp] 302 POST /login (10.26.139.187) 32.500000ms
+[I 18:02:40.846 NotebookApp] 302 GET / (10.26.139.187) 0.280000ms
+[I 18:02:40.879 NotebookApp] 302 GET / (10.26.139.187) 0.270000ms
+[W 18:04:15.735 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:05:14.686 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:05:14.687 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:06:26.919 NotebookApp] Uploading file to /zly_branch/compare.ipynb
+[I 18:08:21.754 NotebookApp] 302 GET /api/kernelspecs/ (10.26.139.187) 0.400000ms
+[I 18:08:21.861 NotebookApp] Kernel started: 62b19b3c-c501-4987-b320-ba23f72cb8c9, name: python3
+[W 18:08:21.920 NotebookApp] No session ID specified
+[I 18:08:22.620 NotebookApp] Saving file at /zly_branch/compare.ipynb
+[I 18:08:22.642 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:08:22.642 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:08:27.814 NotebookApp] Saving file at /zly_branch/compare.ipynb
+[I 18:09:56.435 NotebookApp] Saving file at /zly_branch/compare.ipynb
+[W 18:09:56.435 NotebookApp] Notebook zly_branch/compare.ipynb is not trusted
+[I 18:10:10.073 NotebookApp] Saving file at /zly_branch/compare.ipynb
+[W 18:10:10.074 NotebookApp] Notebook zly_branch/compare.ipynb is not trusted
+[I 18:10:21.391 NotebookApp] Saving file at /zly_branch/compare.ipynb
+[W 18:10:21.391 NotebookApp] Notebook zly_branch/compare.ipynb is not trusted
+[I 18:10:58.193 NotebookApp] Saving file at /zly_branch/compare.ipynb
+[W 18:10:58.193 NotebookApp] Notebook zly_branch/compare.ipynb is not trusted
+[I 18:11:16.215 NotebookApp] 302 GET /api/kernelspecs/ (10.26.139.187) 1.410000ms
+[I 18:11:16.248 NotebookApp] Kernel started: 8235c875-cebc-499f-9c99-7a3c21d43d9e, name: python3
+[W 18:11:16.276 NotebookApp] No session ID specified
+[I 18:11:17.194 NotebookApp] Saving file at /zly_branch/compare.ipynb
+[W 18:11:17.195 NotebookApp] Notebook zly_branch/compare.ipynb is not trusted
+[I 18:11:22.723 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:11:22.724 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:12:19.444 NotebookApp] Kernel interrupted: 8235c875-cebc-499f-9c99-7a3c21d43d9e
+[I 18:12:22.887 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:12:22.888 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:12:25.184 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:12:25.186 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:12:41.716 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:12:41.717 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:12:45.334 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:12:45.335 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:12:54.996 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:12:54.996 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:12:56.634 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:12:56.635 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:13:04.169 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:13:04.170 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:13:07.444 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:13:07.445 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:14:28.199 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:14:28.200 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:15:45.454 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:15:45.454 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:15:49.271 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:15:49.272 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:15:57.656 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:15:57.657 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:16:27.617 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:16:27.618 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 18:16:32.870 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 18:16:32.871 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[W 19:11:33.947 NotebookApp] Forbidden
+[W 19:11:33.948 NotebookApp] 403 GET /api/sessions (10.26.154.7) 1.020000ms referer=None
+[I 19:11:34.193 NotebookApp] 302 POST /login (10.26.154.7) 18.140000ms
+[I 19:11:34.202 NotebookApp] 302 GET / (10.26.154.7) 0.390000ms
+[I 19:11:40.325 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 19:11:40.327 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[W 19:14:11.909 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:14:14.028 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:14:14.029 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:15:09.717 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 19:15:09.718 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 19:17:39.471 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 19:17:39.471 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 19:17:54.380 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 19:17:54.381 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 19:18:04.183 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 19:18:04.184 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 19:18:35.508 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 19:18:35.509 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 19:19:11.714 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 19:19:11.714 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[W 19:19:48.576 NotebookApp] Forbidden
+[W 19:19:48.576 NotebookApp] 403 GET /api/sessions (10.27.133.155) 0.900000ms referer=None
+[W 19:19:48.576 NotebookApp] Forbidden
+[W 19:19:48.576 NotebookApp] 403 GET /api/contents/?content=1 (10.27.133.155) 0.940000ms referer=None
+[I 19:19:48.655 NotebookApp] 302 POST /login (10.27.133.155) 12.400000ms
+[I 19:19:48.667 NotebookApp] 302 POST /login (10.27.133.155) 23.160000ms
+[I 19:19:48.667 NotebookApp] 302 GET / (10.27.133.155) 0.300000ms
+[I 19:19:48.673 NotebookApp] 302 GET / (10.27.133.155) 0.240000ms
+[I 19:20:35.438 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 19:20:35.438 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 19:24:52.676 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 19:24:52.676 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 19:26:05.098 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 19:26:05.099 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 19:28:25.508 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.400000ms
+[I 19:28:25.555 NotebookApp] Kernel started: 62a605ad-15c2-42eb-ab91-93f1f8e072cb, name: python3
+[W 19:28:25.611 NotebookApp] No session ID specified
+[I 19:28:26.410 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:28:26.410 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:28:27.454 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:28:27.454 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:28:28.634 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:28:28.634 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:28:30.270 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:28:30.270 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:28:31.406 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:28:31.407 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:28:32.526 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:28:32.526 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:28:46.238 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 8235c875-cebc-499f-9c99-7a3c21d43d9e restarted
+[I 19:29:04.839 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:29:04.840 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:31:57.368 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:31:57.369 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:32:03.095 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:32:03.096 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:32:28.979 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:32:28.980 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:36:08.868 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:36:08.869 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:43:13.798 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:43:13.800 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:53:29.972 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:53:29.972 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:53:35.520 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:53:35.523 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:54:28.872 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:54:28.873 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:54:30.433 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:54:30.434 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:54:32.233 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:54:32.234 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:54:34.195 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:54:34.195 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:54:37.102 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:54:37.103 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:54:38.284 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:54:38.285 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:56:00.017 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:56:00.017 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:56:40.851 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:56:40.852 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:57:45.559 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:57:45.560 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:57:55.319 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:57:55.319 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:59:40.125 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:59:40.126 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 19:59:44.365 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 19:59:44.365 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:00:26.454 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:00:26.454 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:00:31.727 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:00:31.729 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:02:09.013 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:02:09.014 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:02:13.020 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:02:13.021 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:07:49.147 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:07:49.147 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:07:54.582 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:07:54.582 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:10:45.924 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:10:45.925 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:15:03.459 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:15:03.461 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:15:06.264 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:15:06.265 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:15:10.756 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:15:10.757 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:15:42.183 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:15:42.184 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:15:46.518 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:15:46.520 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:20:29.283 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:20:29.285 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:27:22.005 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:27:22.007 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:27:26.224 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:27:26.253 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:27:39.506 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:27:39.509 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:29:55.438 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:29:55.442 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:29:58.346 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:29:58.349 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:30:51.447 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:30:51.449 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:31:21.020 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:31:21.022 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:32:16.492 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:32:16.494 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:32:37.416 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:32:37.417 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:33:01.264 NotebookApp] Kernel interrupted: 62a605ad-15c2-42eb-ab91-93f1f8e072cb
+[I 20:34:02.425 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:34:02.426 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:34:09.269 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:34:09.270 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:36:49.830 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:36:49.831 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:36:57.997 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:36:58.000 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:37:08.607 NotebookApp] Kernel interrupted: 62a605ad-15c2-42eb-ab91-93f1f8e072cb
+[I 20:41:55.240 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:41:55.241 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:42:03.756 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:42:03.757 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:43:58.094 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:43:58.095 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:45:24.821 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:45:24.823 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:46:03.805 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:46:03.807 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:46:06.204 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:46:06.229 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:46:10.921 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:46:10.923 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:46:12.741 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:46:12.743 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:46:29.574 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:46:29.576 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:49:37.208 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:49:37.209 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 20:58:22.076 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 20:58:22.076 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:05:10.281 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:05:10.281 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:05:54.765 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:05:54.766 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:06:09.347 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:06:09.347 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:06:10.494 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:06:10.494 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:06:11.960 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:06:11.961 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:06:13.794 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:06:13.795 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:06:14.872 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:06:14.873 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:06:27.641 NotebookApp] Kernel interrupted: 8235c875-cebc-499f-9c99-7a3c21d43d9e
+[I 21:06:28.547 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 62a605ad-15c2-42eb-ab91-93f1f8e072cb restarted
+[I 21:06:32.635 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:06:32.636 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:06:39.840 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:06:39.841 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:07:38.807 NotebookApp] Kernel interrupted: 62a605ad-15c2-42eb-ab91-93f1f8e072cb
+[I 21:07:40.906 NotebookApp] Kernel restarted: 62a605ad-15c2-42eb-ab91-93f1f8e072cb
+[I 21:07:40.922 NotebookApp] Starting buffering for 62a605ad-15c2-42eb-ab91-93f1f8e072cb:04f2aa31-0fa2729b31cafb61b0455691
+[I 21:07:40.924 NotebookApp] Kernel shutdown: 62a605ad-15c2-42eb-ab91-93f1f8e072cb
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/__init__.py", line 5, in <module>
+    from .connect import *  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/connect.py", line 11, in <module>
+    import jupyter_client
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/__init__.py", line 8, in <module>
+    from .asynchronous import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/__init__.py", line 1, in <module>
+    from .client import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/client.py", line 6, in <module>
+    from jupyter_client.channels import HBChannel
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/channels.py", line 4, in <module>
+    import asyncio
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/__init__.py", line 8, in <module>
+    from .base_events import *
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/base_events.py", line 18, in <module>
+    import concurrent.futures
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/concurrent/futures/__init__.py", line 8, in <module>
+    from concurrent.futures._base import (FIRST_COMPLETED,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/concurrent/futures/_base.py", line 7, in <module>
+    import logging
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+KeyboardInterrupt
+[I 21:07:41.076 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.560000ms
+[I 21:07:41.111 NotebookApp] Kernel started: 4bce898f-bd71-4f91-a0ce-4afe9f3ed011, name: python3
+[W 21:07:41.125 NotebookApp] No session ID specified
+[I 21:07:46.797 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:07:46.798 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:07:47.774 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:07:47.774 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:07:49.289 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:07:49.289 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:07:51.089 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:07:51.089 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:08:08.102 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 4bce898f-bd71-4f91-a0ce-4afe9f3ed011 restarted
+[W 21:08:40.908 NotebookApp] Timeout waiting for kernel_info_reply: 62a605ad-15c2-42eb-ab91-93f1f8e072cb
+[I 21:09:23.173 NotebookApp] Kernel interrupted: 4bce898f-bd71-4f91-a0ce-4afe9f3ed011
+[I 21:09:26.448 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:09:26.449 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:09:29.398 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:09:29.398 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:09:42.420 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:09:42.421 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:09:46.724 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:09:46.724 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:09:48.144 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:09:48.144 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:09:49.548 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:09:49.549 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:09:50.860 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:09:50.860 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:10:08.134 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 4bce898f-bd71-4f91-a0ce-4afe9f3ed011 restarted
+[I 21:10:43.617 NotebookApp] Kernel interrupted: 4bce898f-bd71-4f91-a0ce-4afe9f3ed011
+[I 21:10:47.148 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:10:47.149 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:10:48.202 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:10:48.202 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:10:49.814 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:10:49.814 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:11:11.210 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 4bce898f-bd71-4f91-a0ce-4afe9f3ed011 restarted
+[I 21:11:33.916 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:11:33.917 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:11:47.804 NotebookApp] Kernel restarted: 4bce898f-bd71-4f91-a0ce-4afe9f3ed011
+[I 21:11:47.813 NotebookApp] Starting buffering for 4bce898f-bd71-4f91-a0ce-4afe9f3ed011:8dae3de1-16f7296e00c50df849216c4b
+[I 21:11:47.823 NotebookApp] Kernel shutdown: 4bce898f-bd71-4f91-a0ce-4afe9f3ed011
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/__init__.py", line 5, in <module>
+    from .connect import *  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/connect.py", line 11, in <module>
+    import jupyter_client
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/__init__.py", line 8, in <module>
+    from .asynchronous import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/__init__.py", line 1, in <module>
+    from .client import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/client.py", line 6, in <module>
+    from jupyter_client.channels import HBChannel
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/channels.py", line 4, in <module>
+    import asyncio
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/__init__.py", line 8, in <module>
+    from .base_events import *
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/base_events.py", line 34, in <module>
+    import ssl
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/ssl.py", line 474, in <module>
+    class SSLContext(_SSLContext):
+KeyboardInterrupt
+[I 21:11:47.967 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.300000ms
+[I 21:11:48.004 NotebookApp] Kernel started: 53bdd917-c4c2-4c18-9b1f-5d97113d60cf, name: python3
+[W 21:11:48.024 NotebookApp] No session ID specified
+[I 21:12:24.732 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:12:24.733 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:12:36.503 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:12:36.503 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[W 21:12:47.806 NotebookApp] Timeout waiting for kernel_info_reply: 4bce898f-bd71-4f91-a0ce-4afe9f3ed011
+[I 21:12:47.995 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 53bdd917-c4c2-4c18-9b1f-5d97113d60cf restarted
+[I 21:13:10.751 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:13:10.752 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:13:51.543 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:13:51.544 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:13:58.588 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:13:58.589 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:14:09.615 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:14:09.615 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:14:10.691 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:14:10.691 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:14:36.025 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 53bdd917-c4c2-4c18-9b1f-5d97113d60cf restarted
+[I 21:14:36.764 NotebookApp] Kernel interrupted: 53bdd917-c4c2-4c18-9b1f-5d97113d60cf
+[I 21:15:33.093 NotebookApp] Kernel restarted: 53bdd917-c4c2-4c18-9b1f-5d97113d60cf
+[I 21:15:33.102 NotebookApp] Starting buffering for 53bdd917-c4c2-4c18-9b1f-5d97113d60cf:4f405dc5-5e193dfe62a6042c8829b603
+[I 21:15:33.103 NotebookApp] Kernel shutdown: 53bdd917-c4c2-4c18-9b1f-5d97113d60cf
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/__init__.py", line 5, in <module>
+    from .connect import *  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/connect.py", line 11, in <module>
+    import jupyter_client
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/__init__.py", line 8, in <module>
+    from .asynchronous import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/__init__.py", line 1, in <module>
+    from .client import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/client.py", line 4, in <module>
+    from traitlets import Type
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/traitlets/__init__.py", line 4, in <module>
+    from . import traitlets
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/traitlets/traitlets.py", line 44, in <module>
+    import inspect
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/inspect.py", line 35, in <module>
+    import ast
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/ast.py", line 28, in <module>
+    from _ast import *
+KeyboardInterrupt
+[I 21:15:33.248 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.300000ms
+[I 21:15:33.364 NotebookApp] Kernel started: 6031e580-9584-4a53-951c-ec88c8d88711, name: python3
+[W 21:15:33.387 NotebookApp] No session ID specified
+[I 21:15:35.358 NotebookApp] Kernel restarted: 6031e580-9584-4a53-951c-ec88c8d88711
+[E 21:15:35.370 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/manager.py", line 78, in wrapper
+        self._ready.set_result(None)
+    asyncio.exceptions.InvalidStateError: invalid state
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 89, in post
+        yield maybe_future(km.restart_kernel(kernel_id))
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/tornado/gen.py", line 769, in run
+        value = future.result()
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 314, in restart_kernel
+        await maybe_future(self.pinned_superclass.restart_kernel(self, kernel_id, now=now))
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/multikernelmanager.py", line 377, in _async_restart_kernel
+        out = await ensure_async(kernel.restart_kernel(now=now))
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/manager.py", line 535, in _async_restart_kernel
+        await ensure_async(self.shutdown_kernel(now=now, restart=True))
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/manager.py", line 81, in wrapper
+        self._ready.set_exception(e)
+    asyncio.exceptions.InvalidStateError: invalid state
+[E 21:15:35.373 NotebookApp] {
+      "Host": "10.25.116.107:8080",
+      "User-Agent": "Apache-HttpClient/4.5.13 (Java/17.0.4)"
+    }
+[E 21:15:35.373 NotebookApp] 500 POST /api/kernels/6031e580-9584-4a53-951c-ec88c8d88711/restart (10.26.154.7) 448.400000ms referer=None
+[I 21:15:35.393 NotebookApp] Starting buffering for 6031e580-9584-4a53-951c-ec88c8d88711:d6f65c8b-1389423a566d97f024a7af0f
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 925, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1423, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1395, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1550, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 123, in _path_join
+  File "<frozen importlib._bootstrap_external>", line 123, in <listcomp>
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/__init__.py", line 5, in <module>
+    from .connect import *  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/connect.py", line 11, in <module>
+    import jupyter_client
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/__init__.py", line 8, in <module>
+    from .asynchronous import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/__init__.py", line 1, in <module>
+    from .client import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/client.py", line 6, in <module>
+    from jupyter_client.channels import HBChannel
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/channels.py", line 12, in <module>
+    import zmq.asyncio
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/zmq/__init__.py", line 103, in <module>
+    from zmq import backend
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/zmq/backend/__init__.py", line 26, in <module>
+    _ns = select_backend(first)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/zmq/backend/select.py", line 31, in select_backend
+    mod = import_module(name)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/zmq/backend/cython/__init__.py", line 6, in <module>
+    from . import (
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 982, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 925, in _find_spec
+KeyboardInterrupt
+[I 21:15:35.539 NotebookApp] Kernel restarted: 6031e580-9584-4a53-951c-ec88c8d88711
+[E 21:15:35.539 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/manager.py", line 78, in wrapper
+        self._ready.set_result(None)
+    asyncio.exceptions.InvalidStateError: invalid state
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 89, in post
+        yield maybe_future(km.restart_kernel(kernel_id))
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/tornado/gen.py", line 769, in run
+        value = future.result()
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 314, in restart_kernel
+        await maybe_future(self.pinned_superclass.restart_kernel(self, kernel_id, now=now))
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/multikernelmanager.py", line 377, in _async_restart_kernel
+        out = await ensure_async(kernel.restart_kernel(now=now))
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/manager.py", line 542, in _async_restart_kernel
+        await ensure_async(self.start_kernel(**self._launch_args))
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/manager.py", line 81, in wrapper
+        self._ready.set_exception(e)
+    asyncio.exceptions.InvalidStateError: invalid state
+[E 21:15:35.540 NotebookApp] {
+      "Host": "10.25.116.107:8080",
+      "User-Agent": "Apache-HttpClient/4.5.13 (Java/17.0.4)"
+    }
+[E 21:15:35.540 NotebookApp] 500 POST /api/kernels/6031e580-9584-4a53-951c-ec88c8d88711/restart (10.26.154.7) 145.900000ms referer=None
+[I 21:15:35.565 NotebookApp] Kernel shutdown: 6031e580-9584-4a53-951c-ec88c8d88711
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/__init__.py", line 5, in <module>
+    from .connect import *  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/connect.py", line 11, in <module>
+    import jupyter_client
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/__init__.py", line 8, in <module>
+    from .asynchronous import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/__init__.py", line 1, in <module>
+    from .client import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/client.py", line 6, in <module>
+    from jupyter_client.channels import HBChannel
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/channels.py", line 8, in <module>
+    from queue import Empty
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/queue.py", line 23, in <module>
+    class Full(Exception):
+KeyboardInterrupt
+[I 21:15:35.690 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.220000ms
+[I 21:15:35.729 NotebookApp] Kernel started: 8956685e-eeed-4173-b1e1-cfd3f55eafd0, name: python3
+[W 21:15:35.752 NotebookApp] No session ID specified
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+[IPKernelApp] ERROR | KeyboardInterrupt caught in kernel.
+[I 21:15:36.645 NotebookApp] Kernel restarted: 8956685e-eeed-4173-b1e1-cfd3f55eafd0
+[I 21:15:36.673 NotebookApp] Starting buffering for 8956685e-eeed-4173-b1e1-cfd3f55eafd0:3ebd907a-61e01bd66345c0aaab8e6ba0
+[I 21:15:36.675 NotebookApp] Kernel shutdown: 8956685e-eeed-4173-b1e1-cfd3f55eafd0
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/__init__.py", line 5, in <module>
+    from .connect import *  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/connect.py", line 11, in <module>
+    import jupyter_client
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/__init__.py", line 8, in <module>
+    from .asynchronous import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/__init__.py", line 1, in <module>
+    from .client import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/client.py", line 6, in <module>
+    from jupyter_client.channels import HBChannel
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/channels.py", line 12, in <module>
+    import zmq.asyncio
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/zmq/__init__.py", line 103, in <module>
+    from zmq import backend
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/zmq/backend/__init__.py", line 26, in <module>
+    _ns = select_backend(first)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/zmq/backend/select.py", line 31, in select_backend
+    mod = import_module(name)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/zmq/backend/cython/__init__.py", line 6, in <module>
+    from . import (
+  File "<frozen importlib._bootstrap>", line 398, in parent
+KeyboardInterrupt
+[I 21:15:36.819 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 1.240000ms
+[I 21:15:36.855 NotebookApp] Kernel started: 2b887ca7-2e99-4fdf-a578-afea26d9ec54, name: python3
+[W 21:15:36.876 NotebookApp] No session ID specified
+[I 21:15:51.423 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:15:51.423 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:15:52.468 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:15:52.468 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:16:12.847 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 2b887ca7-2e99-4fdf-a578-afea26d9ec54 restarted
+[W 21:16:33.095 NotebookApp] Timeout waiting for kernel_info_reply: 53bdd917-c4c2-4c18-9b1f-5d97113d60cf
+[W 21:16:35.361 NotebookApp] Timeout waiting for kernel_info_reply: 6031e580-9584-4a53-951c-ec88c8d88711
+[W 21:16:35.542 NotebookApp] Timeout waiting for kernel_info_reply: 6031e580-9584-4a53-951c-ec88c8d88711
+[W 21:16:36.648 NotebookApp] Timeout waiting for kernel_info_reply: 8956685e-eeed-4173-b1e1-cfd3f55eafd0
+[I 21:17:07.338 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:17:07.339 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:17:11.568 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:17:11.569 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:18:46.578 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:18:46.579 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:19:24.547 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:19:24.547 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:19:48.875 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 2b887ca7-2e99-4fdf-a578-afea26d9ec54 restarted
+[I 21:19:59.044 NotebookApp] Kernel interrupted: 2b887ca7-2e99-4fdf-a578-afea26d9ec54
+[I 21:20:01.671 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:20:01.673 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:20:42.791 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:20:42.791 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:21:49.636 NotebookApp] Starting buffering for 2b887ca7-2e99-4fdf-a578-afea26d9ec54:ab52a90b-ac620b9a830d9577b5bfdab4
+[I 21:21:49.638 NotebookApp] Kernel shutdown: 2b887ca7-2e99-4fdf-a578-afea26d9ec54
+[W 21:23:19.431 NotebookApp] Forbidden
+[W 21:23:19.431 NotebookApp] 403 GET /api/sessions (10.26.154.7) 1.100000ms referer=None
+[I 21:23:19.558 NotebookApp] 302 POST /login (10.26.154.7) 19.520000ms
+[I 21:23:19.564 NotebookApp] 302 GET / (10.26.154.7) 0.320000ms
+[W 21:23:53.307 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:23:58.093 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.930000ms
+[I 21:23:58.141 NotebookApp] Kernel started: ab9be283-0fcf-4514-97c7-e92dabc2de31, name: python3
+[W 21:23:58.188 NotebookApp] No session ID specified
+[I 21:23:59.043 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:23:59.043 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:24:00.033 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+[I 21:24:05.462 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:24:05.463 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:24:22.131 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel ab9be283-0fcf-4514-97c7-e92dabc2de31 restarted
+[I 21:24:35.773 NotebookApp] Kernel interrupted: ab9be283-0fcf-4514-97c7-e92dabc2de31
+[I 21:24:37.748 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:24:37.750 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:31:25.052 NotebookApp] Kernel interrupted: ab9be283-0fcf-4514-97c7-e92dabc2de31
+[I 21:39:36.577 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:39:36.577 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:39:55.417 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:39:55.418 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:40:53.958 NotebookApp] Kernel restarted: 8235c875-cebc-499f-9c99-7a3c21d43d9e
+[I 21:40:53.982 NotebookApp] Starting buffering for 8235c875-cebc-499f-9c99-7a3c21d43d9e:0cdbb31f-e6faeccb82ac59c1efb6192c
+[I 21:40:53.983 NotebookApp] Kernel shutdown: 8235c875-cebc-499f-9c99-7a3c21d43d9e
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/__init__.py", line 5, in <module>
+    from .connect import *  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/connect.py", line 11, in <module>
+    import jupyter_client
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/__init__.py", line 8, in <module>
+    from .asynchronous import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/__init__.py", line 1, in <module>
+    from .client import AsyncKernelClient  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/asynchronous/client.py", line 6, in <module>
+    from jupyter_client.channels import HBChannel
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jupyter_client/channels.py", line 4, in <module>
+    import asyncio
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/asyncio/__init__.py", line 20, in <module>
+    from .threads import *
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 941, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1039, in get_data
+KeyboardInterrupt
+[I 21:40:54.127 NotebookApp] 302 GET /api/kernelspecs/ (10.26.139.187) 0.280000ms
+[I 21:40:54.165 NotebookApp] Kernel started: 982a8a6f-cda7-4324-80c8-37a67371e8c6, name: python3
+[W 21:40:54.190 NotebookApp] No session ID specified
+[I 21:40:57.297 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:40:57.297 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:40:58.907 NotebookApp] Kernel interrupted: ab9be283-0fcf-4514-97c7-e92dabc2de31
+[I 21:41:00.954 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:41:00.955 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:41:09.274 NotebookApp] Kernel restarted: ab9be283-0fcf-4514-97c7-e92dabc2de31
+[I 21:41:09.282 NotebookApp] Starting buffering for ab9be283-0fcf-4514-97c7-e92dabc2de31:1bb76d76-77b7724f25d7f4165b234829
+[I 21:41:09.285 NotebookApp] Kernel shutdown: ab9be283-0fcf-4514-97c7-e92dabc2de31
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/subprocess.py", line 73, in <module>
+    import msvcrt
+ModuleNotFoundError: No module named 'msvcrt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/__init__.py", line 5, in <module>
+    from .connect import *  # noqa
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/connect.py", line 8, in <module>
+    from subprocess import PIPE, Popen
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/subprocess.py", line 80, in <module>
+    import selectors
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 978, in get_code
+  File "<frozen importlib._bootstrap_external>", line 647, in _compile_bytecode
+KeyboardInterrupt
+[I 21:41:09.429 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.800000ms
+[I 21:41:09.464 NotebookApp] Kernel started: 8414f4c1-dc78-4ae9-878c-fe75b9f3bf8a, name: python3
+[W 21:41:09.487 NotebookApp] No session ID specified
+[I 21:41:21.575 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:41:21.575 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:41:23.726 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:41:23.727 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:41:26.848 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:41:26.849 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:41:31.687 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:41:31.688 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[W 21:41:53.959 NotebookApp] Timeout waiting for kernel_info_reply: 8235c875-cebc-499f-9c99-7a3c21d43d9e
+[W 21:42:09.276 NotebookApp] Timeout waiting for kernel_info_reply: ab9be283-0fcf-4514-97c7-e92dabc2de31
+[I 21:42:19.210 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:42:19.212 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:42:21.981 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:42:21.982 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:42:40.128 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:42:40.129 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:43:26.960 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:43:26.962 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:43:29.449 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:43:29.451 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:43:38.670 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+[W 21:43:38.732 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:44:07.052 NotebookApp] Kernel interrupted: 982a8a6f-cda7-4324-80c8-37a67371e8c6
+[I 21:44:09.594 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:44:09.595 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:46:49.883 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:46:49.886 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:47:28.927 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:47:28.929 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:47:43.508 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:47:43.510 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:47:46.862 NotebookApp] Kernel interrupted: 8414f4c1-dc78-4ae9-878c-fe75b9f3bf8a
+[I 21:48:04.780 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:48:04.780 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:49:00.325 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:49:00.326 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:49:06.573 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:49:06.574 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:49:22.758 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:49:22.759 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:49:27.643 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:49:27.643 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:49:32.422 NotebookApp] Kernel interrupted: 8414f4c1-dc78-4ae9-878c-fe75b9f3bf8a
+[I 21:50:28.094 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:50:28.094 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:50:37.820 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:50:37.821 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:50:40.726 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:50:40.727 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:50:45.588 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:50:45.589 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 21:50:49.119 NotebookApp] Kernel interrupted: 8414f4c1-dc78-4ae9-878c-fe75b9f3bf8a
+[I 21:52:48.521 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 21:52:48.521 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[W 21:53:28.822 NotebookApp] Notebook zly_branch/explore_data1.ipynb is not trusted
+[W 21:54:35.290 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 21:55:00.157 NotebookApp] Saving file at /zly_branch/explore_data1.ipynb
+[W 21:55:00.158 NotebookApp] Notebook zly_branch/explore_data1.ipynb is not trusted
+[I 21:55:00.170 NotebookApp] Saving file at /zly_branch/train_gcn_real.ipynb
+[W 21:55:00.171 NotebookApp] Notebook zly_branch/train_gcn_real.ipynb is not trusted
+[I 22:03:33.065 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:03:33.066 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:03:36.695 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:03:36.696 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:03:48.171 NotebookApp] Kernel interrupted: 8414f4c1-dc78-4ae9-878c-fe75b9f3bf8a
+[I 22:04:37.251 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:04:37.252 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:04:40.855 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:04:40.856 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:04:49.480 NotebookApp] Kernel interrupted: 8414f4c1-dc78-4ae9-878c-fe75b9f3bf8a
+[I 22:05:09.073 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:05:09.074 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:05:18.138 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:05:18.139 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:06:30.505 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:06:30.506 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:06:35.012 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:06:35.013 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:07:02.228 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:07:02.229 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:07:08.708 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:07:08.709 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:09:59.714 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 22:09:59.715 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 22:12:16.607 NotebookApp] Starting buffering for 8414f4c1-dc78-4ae9-878c-fe75b9f3bf8a:f74d6e57-7bfd2da8bff13d621e41f710
+[I 22:12:16.608 NotebookApp] Kernel shutdown: 8414f4c1-dc78-4ae9-878c-fe75b9f3bf8a
+[W 22:17:22.179 NotebookApp] WebSocket ping timeout after 119967 ms.
+[W 22:17:24.480 NotebookApp] WebSocket ping timeout after 119954 ms.
+[I 22:17:27.181 NotebookApp] Starting buffering for 62b19b3c-c501-4987-b320-ba23f72cb8c9:e2d5c2b0-b987bfda68f555eee216611e
+[I 22:17:29.484 NotebookApp] Starting buffering for 982a8a6f-cda7-4324-80c8-37a67371e8c6:a05df727-b068210e00798e172b9251b8
+[W 11:03:43.752 NotebookApp] Forbidden
+[W 11:03:43.752 NotebookApp] 403 GET /api/sessions (10.26.154.7) 0.970000ms referer=None
+[I 11:03:43.859 NotebookApp] 302 POST /login (10.26.154.7) 13.330000ms
+[I 11:03:43.869 NotebookApp] 302 GET / (10.26.154.7) 0.480000ms
+[W 11:06:40.050 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:07:07.958 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.600000ms
+[I 11:07:08.008 NotebookApp] Kernel started: 21dd9a84-0f65-4c85-8397-46cd274e4c53, name: python3
+[W 11:07:10.133 NotebookApp] No session ID specified
+[I 11:07:12.207 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:07:12.209 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:07:20.664 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:07:20.665 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:07:23.728 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:07:23.730 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:07:26.930 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:07:26.932 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:08:57.199 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:08:57.201 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:08:59.208 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:08:59.209 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:14:36.888 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:14:36.890 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:14:39.232 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:14:39.234 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:17:14.746 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:17:14.747 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:17:18.144 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:17:18.146 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:17:21.742 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:17:21.744 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:17:24.306 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:17:24.308 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:17:26.886 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:17:26.888 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:17:29.812 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:17:29.814 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:17:31.963 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:17:31.965 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:17:34.939 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:17:34.941 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:19:17.558 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:19:17.559 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:19:21.657 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:19:21.659 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:19:36.789 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:19:36.791 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:19:40.755 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:19:40.755 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:20:40.772 NotebookApp] Starting buffering for 21dd9a84-0f65-4c85-8397-46cd274e4c53:f9d8539a-5eb2686079ff058a56b34657
+[I 11:20:40.775 NotebookApp] Kernel shutdown: 21dd9a84-0f65-4c85-8397-46cd274e4c53
+[W 11:21:19.949 NotebookApp] Forbidden
+[W 11:21:19.949 NotebookApp] 403 GET /api/sessions (10.26.154.7) 0.710000ms referer=None
+[I 11:21:20.067 NotebookApp] 302 POST /login (10.26.154.7) 13.150000ms
+[I 11:21:20.074 NotebookApp] 302 GET / (10.26.154.7) 0.370000ms
+[W 11:55:16.680 NotebookApp] Forbidden
+[W 11:55:16.681 NotebookApp] 403 GET /api/sessions (10.26.154.7) 0.740000ms referer=None
+[I 11:55:16.794 NotebookApp] 302 POST /login (10.26.154.7) 13.560000ms
+[I 11:55:16.810 NotebookApp] 302 GET / (10.26.154.7) 0.600000ms
+[W 11:55:44.075 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:56:38.106 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:56:38.107 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:58:00.681 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.580000ms
+[I 11:58:00.727 NotebookApp] Kernel started: 15a08bdf-a3fd-4c80-8a5e-4ef2bc8ef8f0, name: python3
+[W 11:58:00.762 NotebookApp] No session ID specified
+[I 11:58:01.559 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:58:01.559 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:58:02.604 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:58:02.605 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:58:04.448 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:58:04.449 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:58:05.451 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:58:05.452 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:58:41.641 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:58:41.642 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:58:45.747 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:58:45.749 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 11:59:36.850 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 11:59:36.851 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 12:05:09.601 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 12:05:09.603 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 12:05:17.231 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 12:05:17.234 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 12:05:18.754 NotebookApp] Kernel interrupted: 15a08bdf-a3fd-4c80-8a5e-4ef2bc8ef8f0
+[I 12:05:31.605 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 12:05:31.605 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 12:05:38.277 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 12:05:38.278 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 12:05:51.507 NotebookApp] Kernel interrupted: 15a08bdf-a3fd-4c80-8a5e-4ef2bc8ef8f0
+[I 12:06:04.745 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 12:06:04.746 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 12:16:29.130 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 12:16:29.131 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 12:16:36.079 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 12:16:36.080 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 12:16:41.503 NotebookApp] Kernel interrupted: 15a08bdf-a3fd-4c80-8a5e-4ef2bc8ef8f0
+[I 12:31:50.809 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 12:31:50.810 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[W 12:50:01.382 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 12:50:06.385 NotebookApp] Starting buffering for 15a08bdf-a3fd-4c80-8a5e-4ef2bc8ef8f0:b3fe9289-685bbb17a3cf0752f5d7c4a9
+[I 14:22:29.873 NotebookApp] Kernel shutdown: 15a08bdf-a3fd-4c80-8a5e-4ef2bc8ef8f0
+[W 14:52:19.177 NotebookApp] Forbidden
+[W 14:52:19.177 NotebookApp] 403 GET /api/sessions (10.27.133.155) 1.440000ms referer=None
+[W 14:52:19.178 NotebookApp] Forbidden
+[W 14:52:19.178 NotebookApp] 403 GET /api/contents/?content=1 (10.27.133.155) 1.530000ms referer=None
+[I 14:52:19.281 NotebookApp] 302 POST /login (10.27.133.155) 20.820000ms
+[I 14:52:19.295 NotebookApp] 302 POST /login (10.27.133.155) 34.280000ms
+[I 14:52:19.296 NotebookApp] 302 GET / (10.27.133.155) 0.320000ms
+[I 14:52:19.306 NotebookApp] 302 GET / (10.27.133.155) 1.650000ms
+[W 15:46:00.644 NotebookApp] Forbidden
+[W 15:46:00.644 NotebookApp] 403 GET /api/sessions (10.27.133.155) 1.390000ms referer=None
+[I 15:46:00.833 NotebookApp] 302 POST /login (10.27.133.155) 22.090000ms
+[I 15:46:00.846 NotebookApp] 302 GET / (10.27.133.155) 0.490000ms
+[W 16:38:15.877 NotebookApp] Forbidden
+[W 16:38:15.878 NotebookApp] 403 GET /api/sessions (10.26.154.7) 0.990000ms referer=None
+[I 16:38:16.009 NotebookApp] 302 POST /login (10.26.154.7) 12.560000ms
+[I 16:38:16.024 NotebookApp] 302 GET / (10.26.154.7) 0.400000ms
+[W 16:38:16.329 NotebookApp] Forbidden
+[W 16:38:16.329 NotebookApp] 403 GET /api/contents/?content=1 (10.26.154.7) 0.980000ms referer=None
+[I 16:38:16.338 NotebookApp] 302 GET /login (10.26.154.7) 0.790000ms
+[I 16:38:16.345 NotebookApp] 302 GET / (10.26.154.7) 0.590000ms
+[I 16:38:16.386 NotebookApp] 302 POST /login (10.26.154.7) 12.680000ms
+[I 16:38:16.397 NotebookApp] 302 GET / (10.26.154.7) 0.260000ms
+[W 16:39:33.257 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:42:14.149 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:42:14.150 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:45:01.905 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.550000ms
+[I 16:45:01.991 NotebookApp] Kernel started: a14509e2-339b-4411-b517-a31b64682b3c, name: python3
+[W 16:45:02.224 NotebookApp] No session ID specified
+[I 16:45:02.933 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:45:02.934 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:45:05.162 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:45:05.162 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:45:06.136 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[I 16:45:18.290 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:45:18.290 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:48:13.009 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:48:13.011 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:51:14.792 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:51:14.794 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:52:16.387 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:52:16.389 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:52:24.443 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:52:24.445 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:52:29.006 NotebookApp] Kernel interrupted: a14509e2-339b-4411-b517-a31b64682b3c
+[I 16:52:43.640 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:52:43.640 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:52:49.166 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:52:49.166 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:52:50.712 NotebookApp] Kernel interrupted: a14509e2-339b-4411-b517-a31b64682b3c
+[I 16:53:21.312 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:53:21.313 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 16:56:57.421 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 16:56:57.421 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:04:29.958 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:04:29.959 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:05:19.796 NotebookApp] Kernel interrupted: a14509e2-339b-4411-b517-a31b64682b3c
+[I 17:05:24.939 NotebookApp] Kernel restarted: a14509e2-339b-4411-b517-a31b64682b3c
+[I 17:05:25.165 NotebookApp] Starting buffering for a14509e2-339b-4411-b517-a31b64682b3c:0ebf777e-df72c20bfb6bececd2898f1f
+[I 17:05:25.167 NotebookApp] Kernel shutdown: a14509e2-339b-4411-b517-a31b64682b3c
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/kernelapp.py", line 18, in <module>
+    from IPython.core.application import (
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/IPython/__init__.py", line 53, in <module>
+    from .terminal.embed import embed
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/IPython/terminal/embed.py", line 16, in <module>
+    from IPython.terminal.interactiveshell import TerminalInteractiveShell
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/IPython/terminal/interactiveshell.py", line 46, in <module>
+    from .debugger import TerminalPdb, Pdb
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/IPython/terminal/debugger.py", line 6, in <module>
+    from IPython.core.completer import IPCompleter
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/IPython/core/completer.py", line 149, in <module>
+    import jedi
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jedi/__init__.py", line 32, in <module>
+    from jedi.api import Script, Interpreter, set_debug_function, preload_module
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jedi/api/__init__.py", line 21, in <module>
+    from jedi.api import classes
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jedi/api/classes.py", line 24, in <module>
+    from jedi.inference.utils import unite
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jedi/inference/__init__.py", line 70, in <module>
+    from jedi.inference import imports
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jedi/inference/imports.py", line 29, in <module>
+    from jedi.inference.gradual.typeshed import import_module_decorator, \
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jedi/inference/gradual/typeshed.py", line 12, in <module>
+    from jedi.inference.gradual.stub_value import TypingModuleWrapper, StubModuleValue
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jedi/inference/gradual/stub_value.py", line 2, in <module>
+    from jedi.inference.value.module import ModuleValue
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jedi/inference/value/__init__.py", line 5, in <module>
+    from jedi.inference.value.klass import ClassValue
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jedi/inference/value/klass.py", line 48, in <module>
+    from jedi.inference.arguments import unpack_arglist, ValuesArguments
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/jedi/inference/arguments.py", line 13, in <module>
+    from jedi.inference.value import iterable
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 978, in get_code
+  File "<frozen importlib._bootstrap_external>", line 647, in _compile_bytecode
+KeyboardInterrupt
+[I 17:05:25.453 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.320000ms
+[I 17:05:25.752 NotebookApp] Kernel started: e3bd18e4-169c-4d37-83a8-783c9b49887e, name: python3
+[W 17:05:25.781 NotebookApp] No session ID specified
+[I 17:05:31.548 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:05:31.548 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[W 17:06:24.940 NotebookApp] Timeout waiting for kernel_info_reply: a14509e2-339b-4411-b517-a31b64682b3c
+[I 17:08:32.939 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:08:32.940 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:08:37.838 NotebookApp] Kernel interrupted: e3bd18e4-169c-4d37-83a8-783c9b49887e
+[I 17:08:44.695 NotebookApp] Kernel restarted: e3bd18e4-169c-4d37-83a8-783c9b49887e
+[I 17:08:44.767 NotebookApp] Starting buffering for e3bd18e4-169c-4d37-83a8-783c9b49887e:d42864b2-2a047bc94735767dd0e764ca
+[I 17:08:44.769 NotebookApp] Kernel shutdown: e3bd18e4-169c-4d37-83a8-783c9b49887e
+Traceback (most recent call last):
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel/kernelapp.py", line 18, in <module>
+    from IPython.core.application import (
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/IPython/__init__.py", line 52, in <module>
+    from .core.application import Application
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/IPython/core/application.py", line 27, in <module>
+    from IPython.core import release, crashhandler
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/IPython/core/crashhandler.py", line 28, in <module>
+    from IPython.core import ultratb
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/IPython/core/ultratb.py", line 102, in <module>
+    from pygments.formatters.terminal256 import Terminal256Formatter
+  File "/home/zhuhe/anaconda3/envs/pytorch/lib/python3.9/site-packages/pygments/formatters/__init__.py", line 17, in <module>
+    from pygments.formatters._mapping import FORMATTERS
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 978, in get_code
+  File "<frozen importlib._bootstrap_external>", line 647, in _compile_bytecode
+KeyboardInterrupt
+[I 17:08:44.991 NotebookApp] 302 GET /api/kernelspecs/ (10.26.154.7) 0.540000ms
+[I 17:08:45.026 NotebookApp] Kernel started: b31ba35a-234c-4f15-8612-2ce3b5f0158c, name: python3
+[W 17:08:45.191 NotebookApp] No session ID specified
+[I 17:08:51.368 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:08:51.368 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[W 17:09:44.698 NotebookApp] Timeout waiting for kernel_info_reply: e3bd18e4-169c-4d37-83a8-783c9b49887e
+[I 17:10:30.727 NotebookApp] Kernel interrupted: b31ba35a-234c-4f15-8612-2ce3b5f0158c
+[I 17:10:36.099 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:10:36.099 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:11:13.823 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:11:13.824 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:11:25.131 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:11:25.132 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:26:47.244 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:26:47.245 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:29:11.128 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:29:11.129 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:29:12.565 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:29:12.565 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:29:14.038 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:29:14.038 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:29:16.524 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:29:16.525 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+[I 17:29:32.640 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:29:32.640 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:29:34.186 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:29:34.187 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:29:35.490 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:29:35.490 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:29:36.739 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:29:36.739 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:29:38.289 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:29:38.290 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:30:02.099 NotebookApp] Kernel interrupted: b31ba35a-234c-4f15-8612-2ce3b5f0158c
+[I 17:30:05.497 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:30:05.497 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:30:36.472 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:30:36.472 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:31:02.822 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:31:02.822 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:31:33.595 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:31:33.596 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:31:39.281 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:31:39.282 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:32:45.877 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:32:45.877 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:37:20.280 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:37:20.281 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:39:12.367 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:39:12.368 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:39:17.002 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:39:17.003 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:42:16.929 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:42:16.930 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:42:22.712 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:42:22.713 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+[I 17:49:41.352 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:49:41.353 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 17:49:49.277 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 17:49:49.278 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[I 18:00:51.145 NotebookApp] Saving file at /brd_branch/predict_brd.ipynb
+[W 18:00:51.146 NotebookApp] Notebook brd_branch/predict_brd.ipynb is not trusted
+[C 18:04:43.891 NotebookApp] 接受信号 15, 正在停止
+[I 18:04:43.892 NotebookApp] 关闭 3 内核
+[I 18:04:43.893 NotebookApp] Kernel shutdown: b31ba35a-234c-4f15-8612-2ce3b5f0158c
+[I 18:04:45.313 NotebookApp] Kernel shutdown: 982a8a6f-cda7-4324-80c8-37a67371e8c6
+[I 18:04:46.035 NotebookApp] Kernel shutdown: 62b19b3c-c501-4987-b320-ba23f72cb8c9
+[I 18:04:46.658 NotebookApp] Shutting down 0 terminals
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
